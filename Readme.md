@@ -8,7 +8,7 @@
 
 ## Why Use Nuxt?
 
-### **Server-Side Rendering (SSR)**: ⚡ Faster page loads and improved SEO.
+- **Server-Side Rendering (SSR)**: ⚡ Faster page loads and improved SEO.
 - **Static Site Generation (SSG)**: 📄 Pre-rendered pages for fast, secure, SEO-friendly sites.
 - **Automatic Routing**: 🛠️ Simplified, file-based routing and lazy-loaded code splitting.
 - **Modular Structure**: 🧩 Organized, component-based setup with auto-imports and modules.
